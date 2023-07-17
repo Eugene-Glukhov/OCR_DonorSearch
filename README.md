@@ -29,6 +29,14 @@ https://github.com/NanoNets/ocr-python?ysclid=ljfcw75ba7779160957 This python pa
 
 ### Предобработка изображения
 
+используемые модули и библиотеки:  
+- torch;
+- torchvision;
+- FastRCNNPredictor (from torchvision.models.detection.faster_rcnn)
+- nms (torchvision.ops.boxes)
+
+Модуль предобработки содержит две функции: модель RCNN для распознования текста и алгоритм non-maximum suppression, который объединяет похожие рамки на основе их взаимного пересечения.
+
 ### Распознование таблиц нейросетью
 
 ### Распознование текста на изображении
