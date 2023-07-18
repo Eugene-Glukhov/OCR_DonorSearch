@@ -61,7 +61,7 @@
 
 Сформированная таблица с распознанным текстом с предобработкой:
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/af73cc47-742b-4e27-aee6-401aaf7d2974)
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%B2%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%83.png)
 
 ### формирование таблицы csv со столбцами по запросу Заказчика
 
