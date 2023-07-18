@@ -1,5 +1,4 @@
 # OCR_DonorSearch
-![image](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/117063726/730f15f8-6464-4c6c-a4da-e56a1c89a359)
 
 ## Название: Автоматическое извлечение информации с фотографий медицинских документов.  
 **Заказчик**: сообщество доноров крови "DonorSearch"  
@@ -19,7 +18,7 @@
 
 исходная справка выглядит следующим образом:
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/53652ab7-d1f3-4e8b-906c-5781b133fab6)
+![изображение]([https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/53652ab7-d1f3-4e8b-906c-5781b133fab6](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/1_%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.png))
 
 ### Распознавание таблиц нейросетью
 
