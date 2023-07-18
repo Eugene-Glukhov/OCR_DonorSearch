@@ -53,7 +53,7 @@
 
 После загрузки модуля распознавания языка (*easyocr.Reader(["ru"], recog_network='cyrillic_g2')*), представлен скрипт отрисовки текстовой области (используется библиотека PIL для отрисовки границ):
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/c7b5575e-7eea-423e-8e6e-35b51f6d8014)
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/4_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
 ### Структурирование и форматирование выходной таблицы
 
