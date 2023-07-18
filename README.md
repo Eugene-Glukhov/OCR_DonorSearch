@@ -1,3 +1,5 @@
+![Model](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/main_.jpg)
+
 # OCR_DonorSearch
 
 ## Название: Автоматическое извлечение информации с фотографий медицинских документов.  
