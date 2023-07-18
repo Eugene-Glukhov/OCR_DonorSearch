@@ -77,7 +77,7 @@
 
 по результатам для каждого файла (из 15 представленных расшифровок) получена такая точность:
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/8af8710f-1180-4843-8611-92bd309e4510)
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/7_accuracy.png)
 
 Исходные сканы, которые были на 100% (accuracy) оцифрованы и переведены в нужный формат:
 
