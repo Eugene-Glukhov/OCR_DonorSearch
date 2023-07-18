@@ -18,7 +18,7 @@
 
 исходная справка выглядит следующим образом:
 
-![Model](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/53652ab7-d1f3-4e8b-906c-5781b133fab6](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/1_%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.png)
+![Model](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/1_%D0%B8%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA.png)
 
 ### Распознавание таблиц нейросетью
 
