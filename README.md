@@ -32,7 +32,7 @@
 
 На выходе - "пойманная" таблица для дальнейшей предобработки
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/5e135eb7-a5bc-4121-9124-6315206e7242)
+![Model](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/2_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B0%20%D1%82%D0%B0%D0%B1%D0%BB.png)
 
 ### Предобработка данных
 
