@@ -81,7 +81,7 @@
 
 Исходные сканы, которые были на 100% (accuracy) оцифрованы и переведены в нужный формат:
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/29970e56-40a8-4835-bb02-938efe338017)
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/8_100.jpg)
 
 Исходные сканы, по результатам accuracy получилась от 0,87 до 0,97 (*на сканах есть перегибы, освещение стало хуже*):
 
