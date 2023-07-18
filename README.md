@@ -88,6 +88,10 @@
 
 ![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/dd5c570c-09cd-46fe-9750-33a009450564)
 
+Исходные сканы, по результатам accuracy получилась 0,66, 0,53, 0,37 и 0,3:
+
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/4f9fb3f6-aa07-4bfb-9b13-af004dd638f3)
+
 
 ## Рекомендации.
 
