@@ -93,7 +93,7 @@
 
 Исходные сканы, которые не удалось оцифровать (*качество сканирования такое, что человеческим глазом затруднительно снять информацию*):
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/97023253-d7ef-412b-9f09-a6d30060a53d)
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/11_%D0%BE%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE.jpg)
 
 
 ## Рекомендации.
