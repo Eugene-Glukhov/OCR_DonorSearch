@@ -92,6 +92,10 @@
 
 ![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/4f9fb3f6-aa07-4bfb-9b13-af004dd638f3)
 
+Исходные сканы, которые не удалось оцифровать:
+
+![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/97023253-d7ef-412b-9f09-a6d30060a53d)
+
 
 ## Рекомендации.
 
