@@ -43,7 +43,7 @@
 
 На выходе получается подготовленная таблица для распознавания текста:  
 
-![изображение](https://github.com/Eugene-Glukhov/OCR_DonorSearch/assets/137832933/7af46316-a932-4ac5-b1a6-a0596b3b4b7f)
+![Model](https://github.com/Eugene-Glukhov/OCR_DonorSearch/blob/main/pres/3_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.png)
 
 ### Распознавание текста на изображении
 
